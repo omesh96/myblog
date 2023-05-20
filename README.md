@@ -10,7 +10,7 @@
 
 ## if you are impressed by my work please give a start to my this repositry
 ## you can also check my other projects also
-check out my lates insagram clone project :- https://sociogram-pi.vercel.app/
+check out my latest insagram clone project :- https://sociogram-pi.vercel.app/
 and if you like this please give it a star also it will motivate me to do such projects in future also
 
 if wou want to connect with me you can follow me on LinkdIn :- https://www.linkedin.com/in/omesh-dubey-1456a0253/
